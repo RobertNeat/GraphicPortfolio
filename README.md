@@ -4,7 +4,7 @@
 1. [shape-selection](https://github.com/RobertNeat/shape-selection)
 1. [composition](https://github.com/RobertNeat/composition)
 4. [photomontage](https://github.com/RobertNeat/photomontage)
-9. phot-colorization (projekt_1)
+9. [photo-colorization]() (projekt_1)
 
 ## Inkscape
 5. vector-icons (lab 4)
