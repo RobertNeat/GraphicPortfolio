@@ -1,7 +1,7 @@
 # GraphicPortfolio
 
 ## Gimp
-1. shape-selection (lab 2 - part 1)
+1. [shape-selection] (https://github.com/RobertNeat/shape-selection)
 1. composition (lab 2 - part 2)
 4. photomontage (lab 3 - part 2)
 9. phot-colorization (projekt_1)
