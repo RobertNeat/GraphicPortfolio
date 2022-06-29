@@ -3,7 +3,7 @@
 ## Gimp
 1. [shape-selection](https://github.com/RobertNeat/shape-selection)
 1. [composition](https://github.com/RobertNeat/composition)
-4. photomontage (lab 3 - part 2)
+4. [photomontage](https://github.com/RobertNeat/photomontage)
 9. phot-colorization (projekt_1)
 
 ## Inkscape
