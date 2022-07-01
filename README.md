@@ -7,7 +7,7 @@
 9. [photo-colorization]() (projekt_1)
 
 ## Inkscape
-5. vector-icons (lab 4)
+5. [vector-icons](https://github.com/RobertNeat/vector-icons)
 
 ## Blender
 1. primitives (lab 7 - part 1)
