@@ -4,17 +4,17 @@
 1. [shape-selection](https://github.com/RobertNeat/shape-selection)
 1. [composition](https://github.com/RobertNeat/composition)
 4. [photomontage](https://github.com/RobertNeat/photomontage)
-9. [photo-colorization]() (projekt_1)
+9. [photo-colorization](https://github.com/RobertNeat/photo-colorization)
 
 ## Inkscape
 5. [vector-icons](https://github.com/RobertNeat/vector-icons)
 
 ## Blender
-1. primitives (lab 7 - part 1)
-2. cybertruck (lab 7 - part 2)
-3. house (lab 8)
-4. mesh-rework (lab 9)
-5. sphere-texturing (lab 10)
+1. [primitives](https://github.com/RobertNeat/primitives)
+2. [cybertruck](https://github.com/RobertNeat/cybertruck)
+3. [house](https://github.com/RobertNeat/house)
+4. [mesh-rework](https://github.com/RobertNeat/mesh-rework)
+5. [sphere-texturing](https://github.com/RobertNeat/sphere-texturing)
 6. texture-burning (lab 12)
 7. basic-animation (lab 13)
 8. ball-fall (lab 13 - part 2)
